@@ -1,0 +1,1824 @@
+                                                                    /* HOME PAGE*/
+.navfonts{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-decoration: none;
+color: #A46DA8;
+margin-left: 100px;
+
+mix-blend-mode: normal;
+}
+
+.bgcolorDropdown{
+    position: absolute;   
+    margin-left: 751px;
+    background: rgba(181, 141, 184, 0.58);
+    border: 3px solid rgba(249, 248, 248, 0.85);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+    
+.navSearch{
+    box-sizing: border-box;
+    position: absolute;
+    width: 249px;
+    height: 40px;
+    margin-left: -299px;
+    margin-top: 15px;
+    top: 15px;
+    background: rgba(164, 109, 168, 0.44);
+    border: 1px solid rgba(245, 242, 242, 0.69);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 34px;
+}
+
+.searchbarLogo{
+    margin-left: -299px;
+    margin-top: -5px;   
+}
+
+.navbarBreaker{
+    position: absolute;
+    width: 1400px;
+    height: 7.36px;
+    left: 133.03px;
+    top: 86px;
+}
+
+
+.connecting{
+
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+position: absolute;
+width: 160px;
+height: 45px;
+left: 676px;
+top: 860px;
+padding-left: 35px;
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 44px;
+color: rgba(255, 255, 255, 0.9);
+background: #A46DA8;
+border: 5px solid rgba(187, 187, 187, 0.31);
+border-radius: 35px;
+padding-top:0%;
+text-decoration: none;
+}
+
+.detectDepression{
+    position: absolute;
+    width: 243px;
+    height: 90px;
+    left: 1100px;
+    top: 698px;
+    padding-top: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #4CA7DB ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: rgba(255, 255, 255, 0.59);
+    
+}
+
+.homeMid{
+    margin-left: 0px;
+}
+
+.calmspacepic{
+width: 1600
+}
+
+.feedBackbg{
+box-sizing: border-box;
+position: absolute;
+width: 1590px;
+height: 800px;
+top: 2380px;
+background-color: #A46DA8;
+mix-blend-mode: normal;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.getinTouch{
+margin-left: 600px;
+
+}
+
+
+.feedbackInfoName{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 47px;
+    box-sizing: border-box;
+    position: absolute;
+    width: 650px;
+    height: 60px;
+    left: 43px;
+    top: 200px;
+    color: white;
+    background: #B58DB8;
+    border: 3px solid rgba(249, 248, 248, 0.43);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    }
+
+.feedbackInfoEMAIL{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 47px;
+    box-sizing: border-box;
+    position: absolute;
+    width: 650px;
+    height: 60px;
+    left: 43px;
+    top: 300px;
+    color: white;
+    background: #B58DB8;
+    border: 3px solid rgba(249, 248, 248, 0.43);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.feedbackInfoComment{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 47px;
+    box-sizing: border-box;
+    position: absolute;
+    width: 950px;
+    height: 200px;
+    left: 43px;
+    top: 400px;
+    color: white;
+    background: #B58DB8;
+    border: 3px solid rgba(249, 248, 248, 0.43);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    }
+    
+.submitfeedbackButton{
+box-sizing: border-box;
+position: absolute;
+width: 189px;
+height: 50px;
+left: 700px;
+top: 650px;
+color: white;
+text-align: center;
+text-decoration: none;
+background: rgba(217, 217, 217, 0.33);
+border: 3px solid rgba(249, 248, 248, 0.3);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 37px;
+}
+
+
+.footer{
+    left: 120px;
+    margin-top: 900px;
+    color:black;
+}
+
+.footerbarBreaker{
+    position: absolute;
+    width: 1640px;
+    height: 7.36px;
+    margin-top:890px;
+    margin-left: -50px;
+}
+
+.socialMedia{
+    position: absolute;
+    width: 40.17px;
+    height: 281px;
+    left: 1500px;
+    top: 233px;
+    
+}
+
+/*                                           SIGN UP                                            */
+.signUp{
+border-radius: 15px;
+position: absolute;
+width: 545px;
+height: 600px;
+margin-left: 853px;
+top: 200px;
+background: rgba(164, 109, 168, 0.07);
+border: 3px solid #AF7FB3;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); }
+
+.signUpLogo{
+position: absolute;
+width: 332px;
+height: 215px;
+left: 150px;
+top: 5px;
+
+}
+
+.signUpEmail{
+position: absolute;
+width: 416px;
+height: 50px;
+margin-left: 68px;
+top: 250px;
+background: rgba(255, 255, 255, 0.63);
+border: 3px solid rgba(164, 109, 168, 0.19);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+font-family: 'Inter';
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+}
+
+.signUpName{
+    position: absolute;
+    width: 416px;
+    height: 50px;
+    margin-left: 68px;
+    top: 320px;
+    background: rgba(255, 255, 255, 0.63);
+    border: 3px solid rgba(164, 109, 168, 0.19);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.signUpName2{
+    position: absolute;
+    width: 416px;
+    height: 46px;
+    left: 70px;
+    top: 385px;
+    background: rgba(255, 255, 255, 0.63);
+    border: 3px solid rgba(164, 109, 168, 0.19);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+
+.signUpPassword{
+    position: absolute;
+    width: 416px;
+    height: 46px;
+    left: 70px;
+    top: 445px;
+    background: rgba(255, 255, 255, 0.63);
+    border: 3px solid rgba(164, 109, 168, 0.19);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+
+}
+
+.termsAndConditions{
+margin-top:400px;
+margin-left: 24px;
+font-family: 'Inter';
+font-style: italic;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+
+}
+
+.signupbutton{
+position: absolute;
+background: #3F99CC;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+width: 145px;
+height: 38px;
+left: 1060px;
+top: 728px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 31px;
+color: #F9F8F8;
+text-decoration: none;
+padding-left: 38px;
+
+}
+
+.footerSignUp{
+    left: 120px;
+    margin-top: 10px;
+    color:black;
+
+}
+
+.loginbutton{
+    position: absolute;
+    width: 154px;
+    height: 43px;
+    left: 1065px;
+    top: 601px;
+    background: #2190CF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    text-align: center;
+    text-decoration: none;
+    color:white;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    padding-top: 8px;
+}
+
+
+.Account{
+box-sizing: border-box;
+position: absolute;
+width: 610px;
+height: 63.05px;
+left: 835px;
+top: 690px;
+text-align: center;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height: 24px;
+padding-top: 10px;
+
+}
+
+.forgetpasswordlogin{
+    position: absolute;
+    padding-top:10px;
+    width: 200px;
+    height: 50px;
+    left: 1200px;
+    top: 700px;
+    text-align: center;
+    background: #3F99CC;
+    text-decoration: none;
+    color:white;
+
+}
+
+
+/*                                     CHAT BOT DASH BOARD                               */
+
+.textChatbot1{
+    margin-left: 34px;
+
+}
+
+.goToChatBot{
+  
+    box-sizing: border-box;
+    position: absolute;
+    width: 189px;
+    margin-top: 200px;
+    margin-left: 240px;
+    top: 650px;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    background: rgba(217, 217, 217, 0.33);
+    border: 3px solid rgba(249, 248, 248, 0.3);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 37px;  
+}
+
+.ChatbotLogo{
+    position: absolute;
+    width: 811px;
+    height: 600px;
+    left: 870px;
+    top: 197px; 
+}
+
+.robopage3{
+position: absolute;
+width: 100%;
+}
+    
+.robopage4{
+position: absolute;
+width: 1390px;
+height: 385px;
+left: 100px;
+top: 2200px;
+}
+    
+.chatbotfooter{
+position: absolute;
+width: 1680px;
+height: 7.36px;
+margin-top:1720px;
+margin-left: 10px;
+}
+    
+.chatbotfooterbreak{
+position: absolute;
+width: 1570px;
+height: 7.36px;
+margin-top:1700px;
+margin-left: 10px;
+
+}
+
+/*                                                   Chatbot                          */
+.chatBot{
+margin-left:250px;
+}
+
+
+/*                                      One Time Test                                 */
+
+
+.malebutton{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 400px;
+    top: 700px;
+    text-align:center;
+    padding-top:5px;
+
+    font-family: 'Abyssinica SIL';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 48px;
+    
+    background: #D8B7DB;
+    border: 3px solid rgba(164, 109, 168, 0.67);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    }
+    
+    
+    .maleradiobutton{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 430px;
+    top: 710px;
+    text-align:center;
+    padding-top:5px;	
+    }
+    
+    
+    .femalebutton{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 700px;
+    top: 700px;
+    text-align:center;
+    padding-top:5px;
+    
+    background: #D8B7DB;
+    border: 3px solid rgba(164, 109, 168, 0.67);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+
+    font-family: 'Abyssinica SIL';
+    font-style: normal;
+    font-weight: bold;
+font-size: 24px;
+line-height: 48px;
+    }
+    
+    .femaleradiobutton{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 730px;
+    top: 710px;
+    text-align:center;
+    padding-top:5px;
+    }
+    
+    
+    .preferbutton{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 260px;
+    height: 50px;
+    left: 1000px;
+    top: 700px;
+    text-align:center;
+    padding-top:5px;
+    
+    background: #D8B7DB;
+    border: 3px solid rgba(164, 109, 168, 0.67);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    font-family: 'Abyssinica SIL';
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 48px;
+    }
+    
+    
+    .perferradiobutton{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 1020px;
+    top: 710px;
+    text-align:center;
+    padding-top:5px;}
+    
+    .age1button{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 300px;
+    top: 900px;
+    text-align:center;
+    padding-top:5px;
+    
+    background: #D8B7DB;
+    border: 3px solid rgba(164, 109, 168, 0.67);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+
+    font-family: 'Abyssinica SIL';
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 48px;
+    }
+
+    
+    .age1radiobutton{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 350px;
+    top: 910px;
+    text-align:center;
+    padding-top:5px;	
+    }
+    
+    
+    .age2button{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 600px;
+    top: 900px;
+    text-align:center;
+    padding-top:5px;
+    
+    background: #D8B7DB;
+    border: 3px solid rgba(164, 109, 168, 0.67);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+
+    font-family: 'Abyssinica SIL';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 48px;
+    }
+    
+    .age2radiobutton{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 640px;
+    top: 910px;
+    text-align:center;
+    padding-top:5px;	
+    }
+    
+    .age3button{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 920px;
+    top: 900px;
+    text-align:center;
+    padding-top:5px;
+    
+    background: #D8B7DB;
+    border: 3px solid rgba(164, 109, 168, 0.67);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+
+    font-family: 'Abyssinica SIL';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 48px;
+    }
+    
+    .age3radiobutton{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 960px;
+    top: 910px;
+    text-align:center;
+    padding-top:5px;
+    }
+    
+    .age4button{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 1250px;
+    top: 900px;
+    text-align:center;
+    padding-top:5px;
+    font-family: 'Abyssinica SIL';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 48px;
+    background: #D8B7DB;
+    border: 3px solid rgba(164, 109, 168, 0.67);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    }
+    
+    .age4radiobutton{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 1280px;
+    top: 910px;
+    text-align:center;
+    padding-top:5px;
+    
+    }
+    
+    .yesbutton{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 620px;
+    top: 1070px;
+    text-align:center;
+    padding-top:5px;
+    
+    background: #D8B7DB;
+    border: 3px solid rgba(164, 109, 168, 0.67);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+
+    font-family: 'Abyssinica SIL';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 48px;
+    
+    }
+    
+    .yesradiobutton{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 650px;
+    top: 1080px;
+    text-align:center;
+    padding-top:5px;
+        
+    }
+    
+    .nobutton{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 900px;
+    top: 1070px;
+    text-align:center;
+    padding-top:5px;
+    
+    background: #D8B7DB;
+    border: 3px solid rgba(164, 109, 168, 0.67);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;	
+
+    font-family: 'Abyssinica SIL';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 48px;
+    }
+    
+    .noradiobutton{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 950px;
+    top: 1080px;
+    text-align:center;
+    padding-top:5px;
+        
+    }
+    
+    
+    .nextbutton{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 700px;
+    top: 1150px;
+    text-align:center;
+    text-decoration:none;
+    color:white;
+    font-weight: bold;
+    font-size: 24px;
+
+    background: #D8B7DB;
+    border: 3px solid rgba(164, 109, 168, 0.67);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+    }
+    /*____________Quesion 1________________*/
+    .labelexpanded > input{
+        display: none;
+    }
+
+    .labelexpanded input:checked + .radio-btns{
+        background-color:#A46DA8;
+    }
+
+    .radio-btns{
+        width:257px;
+        height:74px;
+        border-radius: 35px;
+        box-shadow: #c3c3c3;
+        background-color: #D8B7DB;
+        cursor: pointer;
+        border:1px solid black;
+       margin-left:40px;
+       margin-top:600px;
+       padding:10px;
+       padding-left:30px;
+       padding-top:20px;
+    }
+
+    .imageoption1set{
+        margin-top: 100px;
+        margin-left: 200px;
+    }
+
+    .bgQ1{
+        background-image: url(Q1.png);
+        background-repeat: no-repeat;
+        width: 2000px;
+        margin-left:75px;
+        margin-right: auto;
+        max-width: 100%;
+        height:1250px;
+    }
+
+
+    .nextbuttonofOnetimeQuiz{
+        box-sizing: border-box;
+    
+        position: absolute;
+        width: 200px;
+        height: 60px;
+        left: 850px;
+        top: 950px;
+        text-align:center;
+        padding-top:5px;
+        
+        text-decoration:none;
+        color:white;
+        font-size: 32px;
+        font-weight: bolder;
+    
+        
+        background: #D8B7DB;
+        border: 3px solid rgba(164, 109, 168, 0.67);
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 35px;
+
+    }
+
+
+    .backbuttonofOnetimeQuiz{
+        box-sizing: border-box;
+    
+    position: absolute;
+    width: 200px;
+    height: 60px;
+    left: 550px;
+    top: 950px;
+    text-align:center;
+    padding-top:5px;
+    
+    text-decoration:none;
+    color:white;
+    font-size: 32px;
+    font-weight: bolder;
+    
+    background: #D8B7DB;
+    border: 3px solid rgba(164, 109, 168, 0.67);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 35px;
+
+    }
+
+    /*________________Question 2____________*/
+
+    .bgQ2{
+        background-image: url(Q2.png);
+        background-repeat: no-repeat;
+        width: 2000px;
+        margin-left: 75px;
+        margin-right: auto;
+        max-width: 100%;
+        height:1250px;
+    }
+
+
+    /*________________Question 3____________*/
+
+    .bgQ3{
+        background-image: url(Q3.png);
+        background-repeat: no-repeat;
+        width: 2000px;
+        margin-left: 75px;
+        margin-right: auto;
+        max-width: 100%;
+        height:1250px;
+    }
+
+
+    /*________________Question 4____________*/
+
+    .bgQ4{
+        background-image: url(Q4.png);
+        background-repeat: no-repeat;
+        width: 2000px;
+        margin-left:75px ;
+        margin-right: auto;
+        max-width: 100%;
+        height:1250px;
+    }
+
+ /*________________Question 5____________*/
+
+ .bgQ5{
+    background-image: url(Q5.png);
+    background-repeat: no-repeat;
+    width: 2000px;
+    margin-left: 75px;
+    margin-right: auto;
+    max-width: 100%;
+    height:1250px;
+}
+
+/*________________Question 6____________*/
+
+.bgQ6{
+    background-image: url(Q6.png);
+    background-repeat: no-repeat;
+    width: 2000px;
+    margin-left: 75px;
+    margin-right: auto;
+    max-width: 100%;
+    height:1250px;
+}
+
+
+/*________________Question 7___________*/
+
+.bgQ7{
+    background-image: url(Q7.png);
+    background-repeat: no-repeat;
+    width: 2000px;
+    margin-left: 75px;
+    margin-right: auto;
+    max-width: 100%;
+    height:1250px;
+}
+
+/*________________Question 8___________*/
+
+.bgQ8{
+    background-image: url(Q8.png);
+    background-repeat: no-repeat;
+    width: 2000px;
+    margin-left: 75px;
+    margin-right: auto;
+    max-width: 100%;
+    height:1250px;
+}
+
+/*________________Question 9___________*/
+
+.bgQ9{
+    background-image: url(Q9.png);
+    background-repeat: no-repeat;
+    width: 2000px;
+    margin-left: 75px;
+    margin-right: auto;
+    max-width: 100%;
+    height:1250px;
+}
+
+/*________________Question 10___________*/
+
+.bgQ10{
+    background-image: url(Q10.png);
+    background-repeat: no-repeat;
+    width: 2000px;
+    margin-left: 75px;
+    margin-right: auto;
+    max-width: 100%;
+    height:1250px;
+}
+
+.quizfooter{
+    left: 120px;
+    margin-top: 20px;
+    color:black;
+}
+
+.quizfooterbarBreaker{
+
+    position: absolute;
+    width: 1630px;
+    height: 7.36px;
+    margin-top:10px;
+    margin-left: -50px;
+
+}
+
+
+.entermessage{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: rgba(0, 0, 0, 0.66);
+    box-sizing: border-box;
+    position: absolute;
+    width: 1050px;
+    height: 55px;
+    left: 290px;
+    top: 730px;
+    color: black;
+    background: white;
+    border: 3px solid rgba(249, 248, 248, 0.43);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.chatboticons{
+    
+position: absolute;
+width: 92px;
+height: 36px;
+left: 1200px;
+top: 740px;
+}
+
+.submitbuttonofOnetimeQuiz{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 200px;
+        height: 60px;
+        left: 700px;
+        top: 900px;
+        text-align:center;
+        padding-top:5px;
+        
+        text-decoration:none;
+        color:white;
+        font-size: 32px;
+        font-weight: bolder;
+    
+        
+        background: #D8B7DB;
+        border: 3px solid rgba(164, 109, 168, 0.67);
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 35px;
+
+}
+
+/*_____________________________Health Statistics *_________________________________*/
+
+.healthstatdash{
+    margin-right:-5px;
+}
+
+.connectbutton{
+    position: absolute;
+    padding-top:08px;
+    padding-bottom: 10px;
+    width: 200px;
+    height: 60px;
+    left: 1000px;
+    top: 700px;
+    text-align: center;
+    background: rgba(186, 186, 186, 0.44);
+    text-decoration: none;
+    color:white;
+    border-radius: 35px;
+    border: 5px solid rgba(187, 187, 187, 0.56);
+    font-weight: bold;
+    font-size: 24px;
+}
+
+
+.buynowbutton{
+    position: absolute;
+    padding-top:08px;
+    padding-bottom: 10px;
+    width: 200px;
+    height: 60px;
+    margin-left: 1290px;
+    top: 700px;
+    text-align: center;
+    background: rgba(186, 186, 186, 0.44);
+    border: 5px solid rgba(187, 187, 187, 0.56);
+    text-decoration: none;
+    border-radius: 35px;
+    border: 5px solid rgba(187, 187, 187, 0.56);
+    font-weight: bold;
+    font-size: 24px;
+    color:white;
+
+}
+
+
+/*___________________________________Stats Page 3 ________________*/
+.statsbackground{
+margin-left:-20px;
+}
+
+.statslogout{
+position: absolute;
+width: 31px;
+height: 36px;
+left: 49.5px;
+top: 166px;
+}
+
+
+.tips{
+ position: absolute;
+width: 80px;
+height: 80px;
+left: 1450px;
+top: 162px;
+}
+
+/*_____________________________Health Statistics Page 2_________________________________*/
+
+.nearby{
+   
+    width: 530px;
+    height: 690px;
+    margin-left: 470px;
+}
+
+.loader{
+margin-top:-180px;
+  border: 16px solid #f3f3f3; 
+  border-top: 16px solid #A46DA8;
+  border-bottom: 16px solid #A46DA8;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+ 
+  margin-left:687px;
+  animation: spin 2s linear infinite;
+
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/*________________Page 3_______________________*/
+
+.viewrecord{
+    position: absolute;
+    width: 292px;
+    height: 84.5px;
+    left: 1090px;
+    top: 1350px;
+    
+}
+
+.alarms{
+position: absolute;
+width: 291px;
+height: 78px;
+left: 1090px;
+top: 1590px;
+}
+
+.viewrecord2{
+position: absolute;
+width: 283px;
+height: 78px;
+left: 1090px;
+top: 1850px;
+
+}
+
+.poorhealth{
+position: absolute;
+width: 435px;
+height: 78px;
+left: 620px;
+top: 1100px;
+}
+
+/*______________Page 4______________________*/
+
+.diet{
+    position: absolute;
+    width: 1406px;
+    height: 1643px;
+    left: 410px;
+    top: 2140px;
+    
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 50px;
+    
+    color:blueviolet;
+}
+
+.fitness{
+    position: absolute;
+    width: 1406px;
+    height: 1643px;
+    left: 530px;
+    top: 1475px;
+    
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 50px;
+    
+    color:blueviolet;
+
+}
+
+/*__________________Last_______________*/
+
+.trainers{
+   
+    margin-left: 250px;
+}
+
+.maletrainers{
+   
+    margin-left: 450px;
+}
+
+
+.hirenow{
+margin-left:600px;
+}
+
+.hiretherapist{
+    margin-left: 680px;
+}
+
+.orderdiet{
+    margin-left:-1080px;
+    
+}
+
+.booktrainer{
+    margin-left:870px;
+}
+
+/*______________________Result_____________________________*/
+
+.result{
+    width: 2000px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height:1400px;
+}
+
+.yourscore{
+box-sizing: border-box;
+
+position: absolute;
+width: 334px;
+height: 74px;
+left: 350px;
+top: 900px;
+
+font-family: 'Oswald';
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 59px;
+text-align: center;
+color: #2E2B31;
+text-decoration: none;
+
+background: rgba(164, 109, 168, 0.35);
+border: 4px solid #A46DA8;
+border-radius: 35px;
+}
+
+
+.sharescore{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 334px;
+    height: 74px;
+    left: 900px;
+    top: 900px;
+    
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 59px;
+    text-align: center;
+    color: #2E2B31;
+    text-decoration: none;
+    
+    background: rgba(164, 109, 168, 0.35);
+    border: 4px solid #A46DA8;
+    border-radius: 35px;
+    }
+
+
+    .gethelp{
+        box-sizing: border-box;
+        position: absolute;
+        width: 334px;
+        height: 74px;
+        left: 350px;
+        top: 1100px;
+        
+        font-family: 'Oswald';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 40px;
+        line-height: 59px;
+        text-align: center;
+        color: #2E2B31;
+        text-decoration: none;
+        
+        background: rgba(164, 109, 168, 0.35);
+        border: 4px solid #A46DA8;
+        border-radius: 35px;
+        }
+
+
+        .takeanotherquiz{
+            box-sizing: border-box;
+            
+            position: absolute;
+            width: 334px;
+            height: 74px;
+            left: 900px;
+            top: 1100px;
+            
+            font-family: 'Oswald';
+            font-style: normal;
+            font-weight: bold;
+            font-size: 40px;
+            line-height: 59px;
+            text-align: center;
+            color: #2E2B31;
+            text-decoration: none;
+            
+            background: rgba(164, 109, 168, 0.35);
+            border: 4px solid #A46DA8;
+            border-radius: 35px;
+            }
+
+/*_______________________Circle 1_____________________________*/
+
+.circle1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 73px;
+    height: 70px;
+    left: 0px;
+    top: -40px;
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+   
+}
+
+.circle1Q1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 0px;
+    top: -30px;
+
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+}
+
+.circle2Q1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 73px;
+    height: 70px;
+    left: 145px;
+    top: -40px;
+    
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+}
+.circle2{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 175px;
+    top: -30px;
+
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+}
+
+.circle3{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 300px;
+    top: -30px;
+
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+}
+
+.circle4{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 425px;
+    top: -30px;
+
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+}
+
+.circle5{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 550px;
+    top: -30px;
+
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+}
+
+
+.circle6{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 675px;
+    top: -30px;
+
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+}
+
+.circle7{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 800px;
+    top: -30px;
+
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+}
+
+.circle8{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 925px;
+    top: -30px;
+
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+}
+
+.circle9{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1050px;
+    top: -30px;
+
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+}
+
+.circle10{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1175px;
+    top: -30px;
+
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+}
+
+.circle11{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left:1300px;
+    top:-30px;
+
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+}
+
+.circle12{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1425px;
+    top: -30px;
+
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+}
+.line{
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1460px;
+    height: 0px;
+    left: 25px;
+    top: 400px;
+    
+    border: 2px solid rgba(228, 212, 230, 0.71);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
+
+}
+
+
+.lineQ1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1460px;
+    height: 0px;
+    left: 60px;
+    top: 400px;
+    
+    border: 2px solid rgba(228, 212, 230, 0.71);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+/*_________________Question2 ___________*/
+
+
+.circle3Q2{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 73px;
+    height: 70px;
+    left: 300px;
+    top: -40px;
+    
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+}
+
+.circle4Q3{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 73px;
+    height: 70px;
+    left: 425px;
+    top: -40px;
+    
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+}
+
+.circle5Q4{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 73px;
+    height: 70px;
+    left: 550px;
+    top: -40px;
+    
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+}
+
+
+.circle6Q5{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 73px;
+    height: 70px;
+    left: 675px;
+    top: -40px;
+    
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+}
+
+
+.circle7Q6{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 73px;
+    height: 70px;
+    left: 800px;
+    top: -40px;
+    
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+}
+
+.circle8Q7{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 73px;
+    height: 70px;
+    left: 925px;
+    top: -40px;
+    
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+}
+
+.circle9Q8{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 73px;
+    height: 70px;
+    left: 1050px;
+    top: -40px;
+    
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+}
+
+
+.circle10Q9{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 73px;
+    height: 70px;
+    left: 1175px;
+    top: -40px;
+    
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+}
+
+
+.circle11Q10{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 73px;
+    height: 70px;
+    left: 1300px;
+    top: -40px;
+    
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+}
+
+.circle12result{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 73px;
+    height: 70px;
+    left: 1425px;
+    top: -40px;
+    
+    background: rgba(240, 223, 241, 0.74);
+    border: 3px solid rgba(255, 255, 255, 0.19);
+    border-radius:50px ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transform: matrix(1, 0.01, -0.01, 1, 0, 0);
+
+}
